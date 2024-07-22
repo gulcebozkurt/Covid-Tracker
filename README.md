@@ -1,4 +1,8 @@
-# Kütüphaneler
+# Covid-Tracker
+
+Bu uygulama, COVID-19 pandemisi sırasında kullanıcıların güncel vaka sayıları ve diğer önemli bilgileri takip etmelerine yardımcı olmak amacıyla geliştirilmiştir. Arayüzde, dünya genelindeki ve belirli ülkelerdeki COVID-19 verilerini görüntüleyebilirsiniz. Grafik ve istatistik araçlarını kullanarak verileri detaylı olarak inceleyebilirsiniz.
+
+## Kütüphaneler
 
 - react-router-dom
 - react-icons
@@ -11,7 +15,11 @@
 - react-testing-library
 - jest
 
-# Kaynaklar
+## Gif
+
+<img src="covid.gif" />
+
+## Kaynaklar
 
 - 1.API (Covid Verisi): https://rapidapi.com/axisbits-axisbits-default/api/covid-19-statistics/playground/apiendpoint_191c58c7-a995-4024-a5ee-41043d79e542
 
